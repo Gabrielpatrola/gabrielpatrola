@@ -23,4 +23,4 @@ In my free time I like to go to the (and watch) gym (🏋🏻‍♂️), to watc
 Would you like to find me?
 [![Blog Badge](https://img.shields.io/badge/Blog-Coming%20Soon!-black)](https://github.com/gabrielpatrola)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielpatrola/)](https://www.linkedin.com/in/gabrielpatrola/)
-[![E-mail](https://img.shields.io/badge/-E--mail-red?style=flat-square&logo=Mail.Ru&logoColor=white&mailto=gabriel@dompixel.com.br/)](mailto=gabriel@dompixel.com.br/)
+[![E-mail](https://img.shields.io/badge/-E--mail-red?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:gabriel@dompixel.com.br/)
