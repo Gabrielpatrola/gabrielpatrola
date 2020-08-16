@@ -18,7 +18,13 @@ My name is Gabriel Augusto a.k.a. "Patrola", I'm from Brazil (🇧🇷). I've be
 
 In my free time I like to go to the gym (🏋🏻‍♂️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to enjoy a good beer (🍺).
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielpatrola&hide=issues&count_private=true&show_icons=true&theme=tokyonight" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpatrola&hide=css" />
+
+---
+
 Would you like to find me?
+
 [![Blog Badge](https://img.shields.io/badge/Blog-Coming%20Soon!-black)](https://github.com/gabrielpatrola)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielpatrola/)](https://www.linkedin.com/in/gabrielpatrola/)
 [![E-mail](https://img.shields.io/badge/-E--mail-red?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:gabriel@dompixel.com.br/)
