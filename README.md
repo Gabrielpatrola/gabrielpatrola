@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## Hi, I'm Gabriel Augusto "Patrola" 👋
 
 ### 📝 About
-My name is Gabriel Augusto a.k.a. "Patrola", I'm from Brazil (🇧🇷). I've been working as PHP and React/React-Native Developer since 2019 and currently I'm Co-Founder in a startup called [DomPixel](https://dompixel.com.br). I’m currently improving my knowledge in Laravel, React and React-Native and learning Vue.
+My name is Gabriel Augusto a.k.a. "Patrola", I'm from Brazil (🇧🇷). I've been working as PHP and React/React-Native Developer since 2019. I’m currently improving my knowledge in Laravel, React and React-Native and learning Vue.
 
 In my free time I like to go to the gym (🏋🏻‍♂️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to enjoy a good beer (🍺).
 
