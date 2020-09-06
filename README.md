@@ -31,6 +31,7 @@ In my free time I like to go to the gym (🏋🏻‍♂️), to watch movies (�
 
 ### 🤔 Would you like to find me?
 
+[![DeployCast](spotify-podcast-badge-blk-grn-165x40.svg)](https://open.spotify.com/show/76W7lsXhFpeEtKDPDDgrKs)
 [![Blog Badge](https://img.shields.io/badge/Blog-Coming%20Soon!-black)](https://github.com/gabrielpatrola)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielpatrola/)](https://www.linkedin.com/in/gabrielpatrola/)
 [![E-mail](https://img.shields.io/badge/-E--mail-red?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:gabriel@dompixel.com.br/)
