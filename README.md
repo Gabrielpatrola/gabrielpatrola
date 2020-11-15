@@ -54,11 +54,6 @@ display: flex;
 		padding: 8px;
 		border-radius: 4px;
 	"/>
-  	<img src="./bootstrap.svg" width="50" style="
-		margin: 3px;
-		padding: 8px;
-		border-radius: 4px;
-	"/>
   	<img src="./javascript.svg" width="50" style="
 		margin: 3px;
 		padding: 8px;
@@ -100,6 +95,11 @@ display: flex;
 		border-radius: 4px;
 	"/>
   	<img src="./git.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+	<img src="./docker.svg" width="50" style="
 		margin: 3px;
 		padding: 8px;
 		border-radius: 4px;
