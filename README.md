@@ -22,10 +22,89 @@ In my free time I like to go to the gym (🏋🏻‍♂️), to watch movies (�
 
 <img src="https://github-readme-stats.vercel.app/api?username=gabrielpatrola&hide=issues&count_private=true&show_icons=true&theme=tokyonight" />
 
-### 🔝 Langagues 
+### 🔝 Langagues & 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpatrola&hide=css" />
 
+<div style="
+display: flex;
+">
+  <img src="./c.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+	<img src="./php.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+	<img src="./laravel.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+	<img src="./html5.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+	<img src="./css3.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+  	<img src="./bootstrap.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+  	<img src="./javascript.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+  	<img src="./typescript.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+  	<img src="./node-dot-js.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+	<img src="./react.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+	<img src="./vue-dot-js.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+	<img src="./mysql.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+  <img src="./postgresql.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+  	<img src="./jira.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+  <img src="./git.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+  
 ---
 
 ### 🤔 Would you like to find me?
