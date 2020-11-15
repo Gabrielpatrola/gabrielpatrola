@@ -22,14 +22,14 @@ In my free time I like to go to the gym (🏋🏻‍♂️), to watch movies (�
 
 <img src="https://github-readme-stats.vercel.app/api?username=gabrielpatrola&hide=issues&count_private=true&show_icons=true&theme=tokyonight" />
 
-### 🔝 Langagues & 
+### 🔝 Langagues & Technologies
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpatrola&hide=css" />
 
 <div style="
 display: flex;
 ">
-  <img src="./c.svg" width="50" style="
+  	<img src="./c.svg" width="50" style="
 		margin: 3px;
 		padding: 8px;
 		border-radius: 4px;
@@ -89,7 +89,7 @@ display: flex;
 		padding: 8px;
 		border-radius: 4px;
 	"/>
-  <img src="./postgresql.svg" width="50" style="
+  	<img src="./postgresql.svg" width="50" style="
 		margin: 3px;
 		padding: 8px;
 		border-radius: 4px;
@@ -99,7 +99,7 @@ display: flex;
 		padding: 8px;
 		border-radius: 4px;
 	"/>
-  <img src="./git.svg" width="50" style="
+  	<img src="./git.svg" width="50" style="
 		margin: 3px;
 		padding: 8px;
 		border-radius: 4px;
