@@ -104,7 +104,8 @@ display: flex;
 		padding: 8px;
 		border-radius: 4px;
 	"/>
-  
+</div>
+
 ---
 
 ### 🤔 Would you like to find me?
