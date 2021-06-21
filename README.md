@@ -106,6 +106,8 @@ display: flex;
 	"/>
 </div>
 
+![Visitors Count(https://profile-counter.glitch.me/gabrielpatrola/count.svg)](https://profile-counter.glitch.me/gabrielpatrola/count.svg)
+
 ---
 
 ### 🤔 Would you like to find me?
