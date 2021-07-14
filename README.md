@@ -107,7 +107,7 @@ display: flex;
 </div>
 
 ![Visitors Count(https://profile-counter.glitch.me/gabrielpatrola/count.svg)](https://profile-counter.glitch.me/gabrielpatrola/count.svg)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielpatrola" alt="gabrielpatrola" /></p>
 ---
 
 ### 🤔 Would you like to find me?
