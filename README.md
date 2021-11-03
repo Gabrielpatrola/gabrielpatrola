@@ -22,7 +22,7 @@ In my free time I like to go to the gym (🏋🏻‍♂️), to watch movies (�
 
 <img src="https://github-readme-stats.vercel.app/api?username=gabrielpatrola&hide=issues&count_private=true&show_icons=true&theme=tokyonight" />
 
-### 🔝 Langagues & Technologies
+### 🔝 Languages & Technologies
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpatrola&hide=css" />
 
