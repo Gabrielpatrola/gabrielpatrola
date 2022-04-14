@@ -114,5 +114,4 @@ display: flex;
 
 ### 🤔 Would you like to find me?
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielpatrola/)](https://www.linkedin.com/in/gabrielpatrola/)
 [![E-mail](https://img.shields.io/badge/-E--mail-red?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:almeidagabrielaugusto@gmail.com)
