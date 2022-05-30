@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ## Hi, I'm Gabriel Augusto "Patrola" 👋
 
 ### 📝 About
-My name is Gabriel Augusto a.k.a. "Patrola", I'm from Brazil (🇧🇷) and currently working as a software engineer. I'm a JS/TS and Vue/React Developer since 2018 and I'm trying to improve every day my knowledge in Js/Ts.
+My name is Gabriel Augusto a.k.a. "Patrola", I'm from Brazil (🇧🇷) and currently working as a software engineer. I'm a JS/TS and Vue/React Developer since 2017 and I'm trying to improve every day my knowledge in Js/Ts.
 
 In my free time I like to go to the gym (🏋🏻‍♂️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to enjoy a good beer (🍺).
 
