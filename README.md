@@ -29,7 +29,27 @@ In my free time I like to go to the gym (🏋🏻‍♂️), to watch movies (�
 <div style="
 display: flex;
 ">
-  	<img src="./c.svg" width="50" style="
+       <img src="./javascript.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+  	<img src="./typescript.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+	 <img src="./node-dot-js.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+	<img src="./react.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+	<img src="./vue-dot-js.svg" width="50" style="
 		margin: 3px;
 		padding: 8px;
 		border-radius: 4px;
@@ -50,31 +70,6 @@ display: flex;
 		border-radius: 4px;
 	"/>
 	<img src="./css3.svg" width="50" style="
-		margin: 3px;
-		padding: 8px;
-		border-radius: 4px;
-	"/>
-  	<img src="./javascript.svg" width="50" style="
-		margin: 3px;
-		padding: 8px;
-		border-radius: 4px;
-	"/>
-  	<img src="./typescript.svg" width="50" style="
-		margin: 3px;
-		padding: 8px;
-		border-radius: 4px;
-	"/>
-  	<img src="./node-dot-js.svg" width="50" style="
-		margin: 3px;
-		padding: 8px;
-		border-radius: 4px;
-	"/>
-	<img src="./react.svg" width="50" style="
-		margin: 3px;
-		padding: 8px;
-		border-radius: 4px;
-	"/>
-	<img src="./vue-dot-js.svg" width="50" style="
 		margin: 3px;
 		padding: 8px;
 		border-radius: 4px;
@@ -100,6 +95,11 @@ display: flex;
 		border-radius: 4px;
 	"/>
 	<img src="./docker.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+	 <img src="./c.svg" width="50" style="
 		margin: 3px;
 		padding: 8px;
 		border-radius: 4px;
