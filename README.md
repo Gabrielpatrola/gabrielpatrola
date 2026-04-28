@@ -106,7 +106,7 @@ display: flex;
 	"/>
 </div>
 
-![Visitors Count(https://profile-counter.glitch.me/gabrielpatrola/count.svg)](https://profile-counter.glitch.me/gabrielpatrola/count.svg)
+![Visitors Count(https://profile-counter.glitch.me/gabrielpatrola/count.svg)](https://profile-counter.glitch.me/gabrielpatrola/count.svg) 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielpatrola" alt="gabrielpatrola" /></p>
 
  ![Snake animation](https://github.com/Gabrielpatrola/Gabrielpatrola/blob/output/github-contribution-grid-snake.svg)
