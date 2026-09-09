@@ -24,7 +24,7 @@ In my free time I like to go to the gym (🏋🏻‍♂️), to watch movies (�
 
 ### 🔝 Languages & Technologies
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpatrola&hide=css" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gabrielpatrola&hide=css" />
 
 <div style="
 display: flex;
@@ -106,7 +106,7 @@ display: flex;
 	"/>
 </div>
 
-![Visitors Count(https://profile-counter.glitch.me/gabrielpatrola/count.svg)](https://profile-counter.glitch.me/gabrielpatrola/count.svg) 
+![Visitors Count](https://komarev.com/ghpvc/?username=gabrielpatrola)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielpatrola" alt="gabrielpatrola" /></p>
 
  ![Snake animation](https://github.com/Gabrielpatrola/Gabrielpatrola/blob/output/github-contribution-grid-snake.svg)
@@ -114,4 +114,4 @@ display: flex;
 
 ### 🤔 Would you like to find me?
 
-[![E-mail](https://img.shields.io/badge/-E--mail-red?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:almeidagabrielaugusto@gmail.com)
+[![E-mail](https://img.shields.io/badge/-E--mail-red?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:gabriel@patrola.tech)
