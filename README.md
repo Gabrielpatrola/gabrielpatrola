@@ -109,11 +109,12 @@ display: flex;
 ![Visitors Count](https://komarev.com/ghpvc/?username=gabrielpatrola)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielpatrola" alt="gabrielpatrola" /></p>
 
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabrielpatrola/gabrielpatrola/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabrielpatrola/gabrielpatrola/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gabrielpatrola/gabrielpatrola/output/github-contribution-grid-snake.svg">
 </picture>
+
 ---
 
 ### 🤔 Would you like to find me?
